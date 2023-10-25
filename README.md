@@ -1,3 +1,4 @@
 # FULLSTACKOPEN-2023
 These are exercise submissions of the Full Stack Open MOOC.
-![full-stack-open-logo](https://studies.helsinki.fi/api/courses/cur/image/sites/default/files/2021-03/fullstack_scaled_1.png)
+![image](https://github.com/devKyalo/FULLSTACKOPEN-2023/assets/120440464/deb28241-62fa-434e-8884-7a09b7b0af19)
+
